@@ -1,0 +1,4 @@
+Background Image Source:  https://www.pexels.com/photo/yellow-sport-ball-tennis-66323/
+
+Code for saving and restoring state created based on StackOverflow post: https://stackoverflow.com/questions/151777/saving-android-activity-state-using-save-instance-state?rq=1
+Code for border around player based on StackOverflow post: https://stackoverflow.com/questions/15111402/how-can-i-create-a-border-around-an-android-linearlayout
